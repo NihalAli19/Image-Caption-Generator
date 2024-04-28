@@ -11,7 +11,6 @@ The image caption generator project aims to develop a system that automatically 
 ## Deliverables
 - Fully functional image caption generator system capable of producing accurate captions.
 - Fully functional code and outputs
-- Prediction Graph
 - Image classifier
 - Project Report
 - Streamlit for GUI
